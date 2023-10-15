@@ -1,6 +1,7 @@
 #ifndef __TYPE_H
 #define __TYPE_H
 
+#include <stdbool.h>
 #include "driver_nl80211.h"
 #include "driver_wext.h"
 
